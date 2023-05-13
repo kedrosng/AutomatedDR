@@ -1,0 +1,378 @@
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\00-Out\20230127 - SDWG Register
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\99-ss\SDWG_Register.xlsm
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\99-ss\SDWG_Register_20230126.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CSD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\FSI
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELV
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\HKT2_BTP_LET_GTECH_006744_TPa_EVB and WVB' CSD-CBW Drawings for Confirmation and Endorsement.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELE
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELV
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\PLD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\Thumbs.db
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\EVB - CBW CSD HMJV Comments.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\FSI
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ELE
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ELV
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\PLD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\DCS
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\PEW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ECS
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\RDP\FSI
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\TAA\PLD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\TAA\TVS
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ECS
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PLD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELE
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PEW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\00-Out\20230127 - SDWG Register\SDWG_Register_20230127.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\00-Out\20230127 - SDWG Register\SDWG_Register_20230127.xlsm
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230222 Rev A2
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230201 Rev A1
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CSD\20230303 Rev A1
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\BTP_T_00734_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\BTP_T_00669_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\BTP_T_00740_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\20230214 - Rev A for Endorsement
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\BTP_T_00664_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\BTP_T_00490_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00690_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\SDWG_000104 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00735_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELV\BTP_T_00727_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELV\BTP_T_00744_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\FSI\BTP_T_00788_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\FSI\BTP_T_00807_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230201 Rev A1\HKT2-BYME-SDWG-CUE-CBW-117004-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230201 Rev A1\HKT2-BYME-SDWG-CUE-CBW-117002-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230201 Rev A1\HKT2-BYME-SDWG-CUE-CBW-117000-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230201 Rev A1\HKT2-BYME-SDWG-CUE-CBW-117001-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230201 Rev A1\HKT2-BYME-SDWG-CUE-CBW-117003-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230222 Rev A2\HKT2-BYME-SDWG-CUE-CBW-117004-A2.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230222 Rev A2\HKT2-BYME-SDWG-CUE-CBW-117001-A2.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CBW\20230222 Rev A2\HKT2-BYME-SDWG-CUE-CBW-117000-A2.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CSD\20230303 Rev A1\HKT2-BYME-SDWG-CUE-CSD-107002-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CSD\20230303 Rev A1\HKT2-BYME-SDWG-CUE-CSD-107003-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CSD\20230303 Rev A1\HKT2-BYME-SDWG-CUE-CSD-107000-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\CSD\20230303 Rev A1\HKT2-BYME-SDWG-CUE-CSD-107001-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\20230214 - Rev A for Endorsement\HKT2-BYME-SDWG-CUE-ECS-017015-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ECS\20230214 - Rev A for Endorsement\HKT2-BYME-SDWG-CUE-ECS-017016-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00735_StW\HKT2-BYME-SDWG-CUE-ELE-027022-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00735_StW\HKT2-BYME-SDWG-CUE-ELE-027020-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00735_StW\HKT2-BYME-SDWG-CUE-ELE-027021-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00735_StW\SRR to HKT2_BTP_SDWG_000104_1.docx
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00735_StW\OLD
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\ELE\BTP_T_00735_StW\SRR to HKT2_BTP_SDWG_000104_1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\CUE\FSI\BTP_T_00807_StW\Drawing List - VBW_FSI.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00798_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\SRR
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00823_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\EVB Endorsed Ver
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00670_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00759_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00799_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00716_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\BTP_T_00760_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\BTP_T_00731_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\T_00760 - AECOM CSD Comment - 20220330.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELE\SDWG_000097 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELE\BTP_T_00639_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELV\BTP_T_00730_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELV\SDWG_000100 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELV\BTP_T_00823_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00714_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00788_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00702_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00660_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\Thumbs.db
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00774_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\SDWG_000094 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\SDWG_000094_4 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00779_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\PLD\HKT2_EM_BTP_T_00713_StW_E&M Shop Drawing Submission – Eastern Ventilation Building - Plumbing and Drainage systems.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00716_StW\OUT_EM_BTP_00716_T.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00798_StW\Drawing List - VBE_Combined Builder works.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00799_StW\Drawing List - VBE_Combined Builder works.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00799_StW\SRR to HKT2_BTP_SDWG_000102_2.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\BTP_T_00823_StW\Drawing List - VBE_CBW.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\SRR\ED_2018_04_C50_850_16512_Shop Drawings Submission – East Ventilation Building – Combined Builder Works (HKT2_BTP_SDWG_000102_2).pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\SRR\ED_2018_04_C50_850_16512_Encl. SRR.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\SRR\HKT2_BTP_SDWG_000102_1 SRR
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Plenum Level
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230112 Rev A2_Lower Ground
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230314 Rev A_Lower Ground
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230116 Rev A1_Plenum Level
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\SRR\HKT2_BTP_SDWG_000102_1 SRR\ED_2018_04_C50_850_15895.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\SRR\HKT2_BTP_SDWG_000102_1 SRR\ED_2018_04_C50_850_15895_Encl. SRR - replied.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115004-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115006-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115001-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115003-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115000-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115002-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115005-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20221116 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115007-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115012-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115011-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115010-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115013-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115014-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115010-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115012-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115013-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115011-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230109 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115014-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230112 Rev A2_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115013-A2.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230112 Rev A2_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115011-A2.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230112 Rev A2_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115011-A2.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230112 Rev A2_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115013-A2.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115021-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115020-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115021-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115022-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115020-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115022-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-BYMElogo-6135394.jpeg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115004-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-HMJV-6135380.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115002-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115003-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-BTP-6135384.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115006-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115000-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115003-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115005-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115001-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-AECOM-6135382.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115007-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115007-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-CEDD-6135378.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115006-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115000-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115004-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115001-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115005-B.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230123 Rev B_Service Gallery\HKT2-BYME-SDWG-VBE-CBW-115002-B.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115031-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115037-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-BTP-6135384.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115033-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-CEDD-6135378.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115034-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115034-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-HMJV-6135380.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115033-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115032-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115036-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115036-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115035-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-BYMElogo-6135394.jpeg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-AECOM-6135382.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115030-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115030-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115031-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115032-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115037-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115035-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230314 Rev A_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115011-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230314 Rev A_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115013-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230314 Rev A_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115012-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230314 Rev A_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115014-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230314 Rev A_Lower Ground\HKT2-BYME-SDWG-VBE-CBW-115010-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115033-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115035-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115036-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115037-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115030-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115034-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115032-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CBW-115031-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115022-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115020-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CBW\supersede\20230315 Rev A_Plenum Level\HKT2-BYME-SDWG-VBE-CBW-115021-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105010-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105001-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105011-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105012-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105031-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105020-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105033-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105015-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105034-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105013-A-signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105030-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105002-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105032-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105000-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105021-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105003-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105014-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\EVB CSD - AECOM Endorsed Rev A\HKT2-BYME-SDWG-VBE-CSD-105022-A_signed.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Lower Ground (Tunnel Level)
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Plenum Level
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Plenum Level
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Mezzanine Floor
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Lower Ground
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CSD-105015-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CSD-105011-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CSD-105012-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CSD-105014-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CSD-105013-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Lower Ground\HKT2-BYME-SDWG-VBE-CSD-105010-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CSD-105022-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CSD-105020-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230116 Rev A1_Plenum Level\HKT2-BYME-SDWG-VBE-CSD-105021-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105000-A.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-BTP-6135384.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105000-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-HMJV-6135380.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105001-A.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105002-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-BYMElogo-6135394.jpeg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-CEDD-6135378.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105003-A.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ_15Feb2023_093840-AECOM-6135382.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105003-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105002-A.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230213 Rev A_Service Gallery\HKT2-BYME-SDWG-VBE-CSD-105001-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-CEDD-6135378.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115033-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-BYMElogo-6135394.jpeg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-BTP-6135384.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115033-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115031-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115031-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115030-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115032-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115034-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115030-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115034-A1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-AECOM-6135382.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-115032-A1.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230313 Rev A1_Mezzanine Floor\HKT2-BYM-PIM-VBE-CBW-ZZ-ZZ-HMJV-6135380.png
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Lower Ground (Tunnel Level)\HKT2-BYME-SDWG-VBE-CSD-105010-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Lower Ground (Tunnel Level)\HKT2-BYME-SDWG-VBE-CSD-105012-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Lower Ground (Tunnel Level)\HKT2-BYME-SDWG-VBE-CSD-105014-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Lower Ground (Tunnel Level)\HKT2-BYME-SDWG-VBE-CSD-105011-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Lower Ground (Tunnel Level)\HKT2-BYME-SDWG-VBE-CSD-105015-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Lower Ground (Tunnel Level)\HKT2-BYME-SDWG-VBE-CSD-105013-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-105030-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-105033-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-105034-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-105032-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Mezzanine Floor\HKT2-BYME-SDWG-VBE-CSD-105031-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Plenum Level\HKT2-BYME-SDWG-VBE-CSD-105021-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Plenum Level\HKT2-BYME-SDWG-VBE-CSD-105022-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\CSD\supersede\20230315 Rev A_Plenum Level\HKT2-BYME-SDWG-VBE-CSD-105020-A.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\ELV\BTP_T_00823_StW\Drawing List - VBE_ELV.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00714_StW\Thumbs.db
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00774_StW\SRR to HKT2_BTP_SDWG_000094_5.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\BTP_T_00788_StW\SRR to HKT2_BTP_SDWG_000094_2.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\EVB\FSI\SDWG_000094_4 - Stamped\OUT_EM_BTP_00714_T_v1.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\DCS\BTP_T_00471_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\DCS\BTP_T_00739_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ECS\SDWG_000018
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ECS\BTP_T_00823_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ELE\SDWG_000018
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ELV\SDWG_000018
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\FSI\SDWG_000018
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\PEW\SDWG_000018
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\PLD\BTP_T_00044_KKC
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\PLD\BTP_T_00810_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\ECS\BTP_T_00823_StW\Drawing List - KAA_ECS.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\KAA\PLD\BTP_T_00810_StW\Drawing List - KAA PLD.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\RDP\FSI\BTP_T_00812_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\RDP\FSI\BTP_T_00812_StW\Drawing List - RDP_FSI.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\TAA\PLD\BTP_T_00661_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\TAA\TVS\BTP_T_00789_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00652_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00763_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\2023.01.31 email  slab & wall opening
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00793_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\SDWG_000098_2
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00765_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00778_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00816_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00692_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\ED_2018_04_C25_200_15538_Encl. SRR - Approved with Comment.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\BTP_T_00728_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\BTP_T_00691_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\BTP_T_00816_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\BTP_T_00809_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\BTP_T_00777_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ECS\BTP_T_00819_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELE\BTP_T_00823_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELE\SDWG_000084 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELE\BTP_T_00574_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00718_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00693_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00767_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00729_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00752_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00701_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\SDWG_000088 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00812_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00510_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00804_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00797_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00800_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00812_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00679_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00770_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00810_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00790_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00766_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00572_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\SDWG_000089 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PEW\BTP_T_00647_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PEW\BTP_T_00626_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PLD\BTP_T_00797_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PLD\BTP_T_00705_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PLD\SDWG_000103 - Stamped
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PLD\BTP_T_00794_StW
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\2023.01.31 email  slab & wall opening\B1 SLAB OPENING.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\2023.01.31 email  slab & wall opening\B1 WALL OPENING.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\2023.01.31 email  slab & wall opening\B2 SLAB OPENING.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\2023.01.31 email  slab & wall opening\GF SLAB OPENING.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\2023.01.31 email  slab & wall opening\B2 WALL OPENING.dwg
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\BTP_T_00816_StW\Drawing List - VBW_CBD.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\SDWG_000098_2\ED_2018_04_C50_850_15913_Shop Drawings Submission - Western Ventilation Building - Combined builder Works (HKT2_BTP_SDWG_000098_2).pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\SDWG_000098_2\HKT2_BTP_SDWG_000098_2_Shop Drawings Submission - Western Ventilation Building - Combined builder Works.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CBW\SDWG_000098_2\ED_2018_04_C50_850_15913_Encl. SRR.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\BTP_T_00809_StW\Drawing List - VBW CSD.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\CSD\BTP_T_00816_StW\Drawing List - VBW CSD.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ECS\BTP_T_00819_StW\Drawing List - VBW ECS.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELE\BTP_T_00823_StW\Drawing List - VBW_ELE.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00752_StW\SRR to HKT2_BTP_SDWG_000088_2.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00752_StW\SRR to HKT2_BTP_SDWG_000088_2.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00767_StW\SRR to HKT2_BTP_SDWG_000088_2.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00767_StW\SRR to HKT2_BTP_SDWG_000088_2.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\ELV\BTP_T_00812_StW\Drawing List - VBW ELV.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00766_StW\SRR to HKT2_BTP_SDWG_000089_5.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00766_StW\SRR to HKT2_BTP_SDWG_000089_5.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00790_StW\SRR to HKT2_BTP_SDWG_000089_6.doc
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00797_StW\Drawing List - VBW_FSI.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00800_StW\Drawing List - VBW_FSI.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00804_StW\Drawing List - VBW_FSI.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00810_StW\Drawing List - VBW FSI.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\FSI\BTP_T_00812_StW\Drawing List - VBW FSI.pdf
+Invalid file format: C:/Users/kedros.ng/BYCN_Online/OneDrive - BYCN/Desktop/T2/01 - Drawings/01 - BYME SDWG\WVB\PLD\BTP_T_00797_StW\Drawing List - VBW_PLD.pdf

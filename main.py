@@ -7,6 +7,9 @@ from tabulate import tabulate
 from collections import namedtuple
 import tkinter as tk
 from tkinter import filedialog
+import openpyxl
+from openpyxl.utils import get_column_letter
+from openpyxl.styles import Font
 
 
 class Drawing:
@@ -115,24 +118,97 @@ def update_drawings_in_batch(drawings, filepaths, submission_date, submission_re
 
             print(f"Updated {updated_drawings} drawings in the batch")
 
-def save_drawings_to_csv(drawings, output_file):
-    with open(output_file, "w", newline="") as csvfile:
+
+def save_drawings_to_csv(drawings, output_folder):
+    drawings_by_type = {}
+
+    # Group drawings by "location_code_drawing type" combination
+    for drawing in drawings:
+        key = f"{drawing.location_code}_{drawing.drawing_type}"
+        if key not in drawings_by_type:
+            drawings_by_type[key] = []
+        drawings_by_type[key].append(drawing)
+
+    # Create output folder if it does not exist
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    # Write separate CSV files for each "location_code_drawing type" combination
+    for key, drawings in drawings_by_type.items():
+        output_file = os.path.join(output_folder, f"{key}.csv")
+        with open(output_file, "w", newline="") as csvfile:
+            fieldnames = ["drawing_number", "title", "revision", "date", "location_code", "drawing_type", "submission_date", "submission_ref"]
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            writer.writeheader()
+            for drawing in drawings:
+                writer.writerow({
+                    "drawing_number": f"{drawing.drawing_number:06d}",
+                    "title": drawing.title,
+                    "revision": drawing.revision,
+                    "date": drawing.date,
+                    "location_code": drawing.location_code,
+                    "drawing_type": drawing.drawing_type,
+                    "submission_date": drawing.submission_date,
+                    "submission_ref": drawing.submission_ref,
+                })
+def create_timestamped_file():
+    # Get the current timestamp and format it as a string
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+    # Create the text file with the timestamp in its name
+    filename = f"{timestamp}.txt"
+    with open(filename, "w") as file:
+        file.write(f"Script run at: {timestamp}\n")
+def save_drawings_to_excel(drawings, output_file):
+    drawings_by_type = {}
+
+    # Group drawings by "location_code_drawing type" combination
+    for drawing in drawings:
+        key = f"{drawing.location_code}_{drawing.drawing_type}"
+        if key not in drawings_by_type:
+            drawings_by_type[key] = []
+        drawings_by_type[key].append(drawing)
+
+    # Create a new Excel workbook
+    workbook = openpyxl.Workbook()
+    sheet = workbook.active
+    workbook.remove(sheet)
+  
+
+    # Write separate sheets for each "location_code_drawing type" combination
+    for key, drawings in drawings_by_type.items():
+        sheet = workbook.create_sheet(title=key)
         fieldnames = ["drawing_number", "title", "revision", "date", "location_code", "drawing_type", "submission_date", "submission_ref"]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        writer.writeheader()
-        for drawing in drawings:
-            writer.writerow({
-                "drawing_number": f"{drawing.drawing_number:06d}",  # Format the drawing number as a zero-padded string with a width of 6 digits
-                "title": drawing.title,
-                "revision": drawing.revision,
-                "date": drawing.date,
-                "location_code": drawing.location_code,
-                "drawing_type": drawing.drawing_type,
-                "submission_date": drawing.submission_date,
-                "submission_ref": drawing.submission_ref,
-            })
+        # Write header row and style it
+        for col_num, fieldname in enumerate(fieldnames, 1):
+            cell = sheet.cell(row=1, column=col_num)
+            cell.value = fieldname
+            cell.font = Font(bold=True)
 
+        # Write data rows
+        for row_num, drawing in enumerate(drawings, start=2):
+            sheet.cell(row=row_num, column=1, value=drawing.title)
+    
+            # Use row_num instead of 2 in the formula
+            title_formula = f"=VLOOKUP(LEFT(A{row_num},29),[aconex_export.xls]Docs!$B$13:$E$9000,4,FALSE)"
+    
+            sheet.cell(row=row_num, column=2, value=title_formula)
+            sheet.cell(row=row_num, column=3, value=drawing.revision)
+            sheet.cell(row=row_num, column=4, value=drawing.date)
+            sheet.cell(row=row_num, column=5, value=drawing.location_code)
+            sheet.cell(row=row_num, column=6, value=drawing.drawing_type)
+            sheet.cell(row=row_num, column=7, value=drawing.submission_date)
+            sheet.cell(row=row_num, column=8, value=drawing.submission_ref)
+
+        # Adjust column widths
+        for col_num in range(1, len(fieldnames) + 1):
+            column_letter = get_column_letter(col_num)
+            sheet.column_dimensions[column_letter].auto_size = True
+
+    # Save the Excel workbook to the output file
+    workbook.save(output_file)
 def main():
     # Create a list to store all the drawings
     drawings_register = []
@@ -149,11 +225,26 @@ def main():
     # Process all drawings in the selected folder and its subfolders
     process_all_drawings(base_folder, drawings_register)
 
-    # Save the updated drawings register to a CSV file
-    output_file = "drawings_register.csv"
-    save_drawings_to_csv(drawings_register, output_file)
+    # Ask the user if they want to save the drawings register as CSV files
+    save_as_csv = input("Do you want to save the updated drawings register as CSV files? (y/n): ").lower()
 
-    print("Finished processing. Saved updated drawings register to:", output_file)
+    if save_as_csv == 'y':
+        # Save the updated drawings register to separate CSV files based on "location_code_drawing type"
+        output_folder = "output_drawings"
+        save_drawings_to_csv(drawings_register, output_folder)
+        print("Saved updated drawings register to CSV files in:", output_folder)
+    else:
+        print("Skipping saving updated drawings register to CSV files.")
+
+    # Save the updated drawings register to separate sheets in an Excel workbook based on "location_code_drawing type"
+    output_file = "drawings_register.xlsx"
+    save_drawings_to_excel(drawings_register, output_file)
+    print("Saved updated drawings register to Excel file:", output_file)
+
+    # Create a timestamped text file in the root folder
+    create_timestamped_file()
+
+    print("Finished processing.")
 
 if __name__ == "__main__":
     main()
