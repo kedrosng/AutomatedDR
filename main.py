@@ -9,7 +9,6 @@ import tkinter as tk
 from tkinter import filedialog
 
 
-
 class Drawing:
     def __init__(self, drawing_number, title, revision, date, location_code, drawing_type, submission_date=None, submission_ref=None):
         self.drawing_number = drawing_number
@@ -27,14 +26,15 @@ class Drawing:
                 f"Revision: {self.revision}, Date: {self.date}, "
                 f"Submission Date: {self.submission_date}, Submission Ref: {self.submission_ref})")
 
+
 def process_all_drawings(base_folder, drawings_register):
     # Prepare the log file
     with open("log.txt", "w") as log_file:
-        # Iterate through all subfolders in the base_folder
-        for drawing_type_folder in os.listdir(base_folder):
-            drawing_type_path = os.path.join(base_folder, drawing_type_folder)
-            
-            if os.path.isdir(drawing_type_path):
+        # Recursively process all folders and subfolders in the base_folder
+        for root, dirs, files in os.walk(base_folder):
+            for drawing_type_folder in dirs:
+                drawing_type_path = os.path.join(root, drawing_type_folder)
+
                 print(f"Processing drawing type folder: {drawing_type_path}")
 
                 submission_date = datetime.fromtimestamp(os.path.getmtime(drawing_type_path)).strftime('%Y-%m-%d')
@@ -43,37 +43,20 @@ def process_all_drawings(base_folder, drawings_register):
                 drawing_files = glob.glob(os.path.join(drawing_type_path, "*"))
 
                 # Filter out the files that do not match the file name format criteria
-                invalid_files = []
-                valid_files = []
-                for drawing_file in drawing_files:
-                    if re.search(r"HKT2_BYME_SDWG_([A-Za-z0-9]+)[_-]([A-Za-z0-9]+)[_-](\d+)[_-](\w)", os.path.basename(drawing_file)):
-                        valid_files.append(drawing_file)
-                        
-                    else:
-                        invalid_files.append(drawing_file)
-                        log_file.write(f"Invalid file format: {drawing_file}\n")
-                        
+                valid_files = [drawing_file for drawing_file in drawing_files
+                                if re.search(r"HKT2_BYME_SDWG_([A-Za-z0-9]+)[_-]([A-Za-z0-9]+)[_-](\d+)[_-](\w)", os.path.basename(drawing_file))]
+
+                invalid_files = set(drawing_files) - set(valid_files)
+
+                for invalid_file in invalid_files:
+                    log_file.write(f"Invalid file format: {invalid_file}\n")
 
                 print(f"Valid files found: {len(valid_files)}")
                 print(f"Invalid files found: {len(invalid_files)}")
+
                 if valid_files:
                     update_drawings_in_batch(drawings_register, valid_files, submission_date, drawing_type_folder)
 
-def get_drawing_info_from_file(drawing_file):
-    # Extract drawing information from the file's basename
-    drawing_info = parse_filename(os.path.basename(drawing_file))
-
-    # If drawing_info is None, return None
-    if drawing_info is None:
-        return None
-
-    # Extract the title from the file's basename
-    drawing_title = os.path.splitext(os.path.basename(drawing_file))[0]
-
-    # Add the title to the drawing_info dictionary
-    drawing_info["title"] = drawing_title
-    
-    return drawing_info
 
 def parse_filename(filename):
     pattern = r"HKT2_BYME_SDWG_([A-Za-z0-9]+)[_-]([A-Za-z0-9]+)[_-](\d+)[_-]([A-Za-z0-9]*)\.pdf"
@@ -88,6 +71,7 @@ def parse_filename(filename):
         }
     return None
 
+
 def update_drawings_in_batch(drawings, filepaths, submission_date, submission_ref):
     updated_drawings = 0
     for filepath in filepaths:
@@ -95,7 +79,7 @@ def update_drawings_in_batch(drawings, filepaths, submission_date, submission_re
         if drawing_info is None:
             print(f"Error: could not extract drawing info from file {filepath}")
             continue
-        
+
         # Find the existing drawing with the same drawing number, location code, drawing type, and revision
         existing_drawing = None
         for drawing in drawings:
@@ -105,9 +89,11 @@ def update_drawings_in_batch(drawings, filepaths, submission_date, submission_re
                     and drawing.revision == drawing_info["revision"]):
                 existing_drawing = drawing
                 break
-            
+
+        title = os.path.splitext(os.path.basename(filepath))[0]
+
         if existing_drawing:
-            existing_drawing.title = os.path.splitext(os.path.basename(filepath))[0]
+            existing_drawing.title = title
             existing_drawing.date = submission_date
             existing_drawing.submission_date = submission_date
             existing_drawing.submission_ref = submission_ref
@@ -116,7 +102,7 @@ def update_drawings_in_batch(drawings, filepaths, submission_date, submission_re
             # Create a new drawing object and add it to the drawings register
             new_drawing = Drawing(
                 drawing_number=drawing_info["drawing_number"],
-                title=os.path.splitext(os.path.basename(filepath))[0],
+                title=title,
                 revision=drawing_info["revision"],
                 date=submission_date,
                 location_code=drawing_info["location_code"],
@@ -126,117 +112,48 @@ def update_drawings_in_batch(drawings, filepaths, submission_date, submission_re
             )
             drawings.append(new_drawing)
             updated_drawings += 1
-    
-    print(f"Updated {updated_drawings} drawings from files.")
-    # Save the updated drawings list to a CSV file
-    with open("drawings.csv", "w", newline="") as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(["drawing_number", "title", "revision", "date", "location_code", "drawing_type", "submission_date", "submission_ref"])
+
+            print(f"Updated {updated_drawings} drawings in the batch")
+
+def save_drawings_to_csv(drawings, output_file):
+    with open(output_file, "w", newline="") as csvfile:
+        fieldnames = ["drawing_number", "title", "revision", "date", "location_code", "drawing_type", "submission_date", "submission_ref"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
         for drawing in drawings:
-            writer.writerow([
-                drawing.drawing_number,
-                drawing.title,
-                drawing.revision,
-                drawing.date,
-                drawing.location_code,
-                drawing.drawing_type,
-                drawing.submission_date,
-                drawing.submission_ref,
-            ])
-def save_drawings_to_csv(drawings, file_path):
-    headers = ["Drawing Number", "Title", "Location Code", "Drawing Type", "Revision", "Date", "Submission Date", "Submission Ref"]
-    data = []
-    for drawing in drawings:
-        drawing_info = parse_filename(drawing.title)
-        if drawing_info is None:
-            print(f"Error: could not parse drawing info for {drawing.title}")
-            continue
-        
-        data.append([
-            drawing_info["drawing_number"],
-            drawing.title,
-            drawing_info["location_code"],
-            drawing_info["drawing_type"],
-            drawing_info["revision"],
-            drawing.date,
-            drawing.submission_date,
-            drawing.submission_ref
-        ])
+            writer.writerow({
+                "drawing_number": f"{drawing.drawing_number:06d}",  # Format the drawing number as a zero-padded string with a width of 6 digits
+                "title": drawing.title,
+                "revision": drawing.revision,
+                "date": drawing.date,
+                "location_code": drawing.location_code,
+                "drawing_type": drawing.drawing_type,
+                "submission_date": drawing.submission_date,
+                "submission_ref": drawing.submission_ref,
+            })
 
-    print(f"Saving drawings to CSV file: {file_path}")
-    print(f"Headers: {headers}")
-    print(f"Data: {data}")
-    
-    try:
-        with open(file_path, "w", newline='') as csvfile:
-            csv_writer = csv.writer(csvfile)
-            csv_writer.writerow(headers)
-            csv_writer.writerows(data)
-    except Exception as e:
-        print(f"Error saving drawings to CSV file: {e}")
+def main():
+    # Create a list to store all the drawings
+    drawings_register = []
+
+    # Prompt the user to select a folder
+    root = tk.Tk()
+    root.withdraw()
+    base_folder = filedialog.askdirectory(title="Select a folder containing the drawing files")
+
+    if not base_folder:
+        print("No folder selected. Exiting.")
         return
-        
-    print("Drawings saved successfully!")
-def read_drawings_from_csv(file_path):
-    drawings = []
-    
-    if not os.path.exists(file_path):
-        return drawings
 
-    with open(file_path, "r", newline='') as csvfile:
-        csv_reader = csv.reader(csvfile)
-        headers = next(csv_reader)
-
-        sanitized_headers = [header.replace(" ", "_") for header in headers]
-        DrawingTuple = namedtuple("DrawingTuple", sanitized_headers)
-        
-        for row in csv_reader:
-            drawing_tuple = DrawingTuple(*row)
-            drawing = Drawing(drawing_tuple.Drawing_Number,
-                              drawing_tuple.Title,
-                              drawing_tuple.Revision,
-                              drawing_tuple.Date,
-                              drawing_tuple.Location_Code,
-                              drawing_tuple.Drawing_Type,
-                              drawing_tuple.Submission_Date,
-                              drawing_tuple.Submission_Ref)
-            drawings.append(drawing)
-    return drawings
-
-
-def print_drawings_table(drawings):
-    headers = ["Drawing Number", "Title", "Location Code", "Drawing Type", "Revision", "Date", "Submission Date", "Submission Ref"]
-    data = []
-    for drawing in drawings:
-        data.append([
-            drawing.drawing_number,
-            drawing.title,
-            drawing.location_code,
-            drawing.drawing_type,
-            drawing.revision,
-            drawing.date,
-            drawing.submission_date,
-            drawing.submission_ref
-        ])
-    print(tabulate(data, headers=headers, tablefmt="pretty"))
-    
-# Load the drawings register from a CSV file
-csv_file_path = "drawings_register.csv"
-drawings_register = read_drawings_from_csv(csv_file_path)
-
-# Prompt the user to select the base folder
-root = tk.Tk()
-root.withdraw()  # Hide the Tkinter root window
-
-base_folder = filedialog.askdirectory(title="Select the base folder")
-if base_folder:
-    # Process all drawings found in the folder structure
+    # Process all drawings in the selected folder and its subfolders
     process_all_drawings(base_folder, drawings_register)
-    
-    # Save the updated drawings register to the CSV file
-    #save_drawings_to_csv(drawings_register, csv_file_path)
 
-    # Display the updated drawings register
-    print_drawings_table(drawings_register)
-else:
-    print("No folder was selected. Exiting.")
+    # Save the updated drawings register to a CSV file
+    output_file = "drawings_register.csv"
+    save_drawings_to_csv(drawings_register, output_file)
+
+    print("Finished processing. Saved updated drawings register to:", output_file)
+
+if __name__ == "__main__":
+    main()
