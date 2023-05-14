@@ -10,7 +10,6 @@ import tkinter as tk
 from tkinter import filedialog
 
 
-
 class Drawing:
     def __init__(self, drawing_number, title, revision, date, location_code, drawing_type, submission_date=None, submission_ref=None):
         self.drawing_number = drawing_number

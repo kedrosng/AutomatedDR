@@ -209,6 +209,7 @@ def save_drawings_to_excel(drawings, output_file):
 
     # Save the Excel workbook to the output file
     workbook.save(output_file)
+    
 def main():
     # Create a list to store all the drawings
     drawings_register = []
@@ -245,6 +246,7 @@ def main():
     create_timestamped_file()
 
     print("Finished processing.")
+
 
 if __name__ == "__main__":
     main()
