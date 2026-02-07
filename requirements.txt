@@ -1,0 +1,31 @@
+# JV Cost Reconciliation System - Requirements
+# Python 3.10+
+
+# Core UI
+streamlit>=1.31.0
+streamlit-aggrid>=0.3.4
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+pyarrow>=14.0.0
+openpyxl>=3.1.0  # Excel read/write
+
+# PDF Processing
+pdfplumber>=0.10.0
+reportlab>=4.0.0  # PDF generation
+
+# Fuzzy Matching
+rapidfuzz>=3.5.0
+
+# Schema Validation
+pandera>=0.18.0
+
+# YAML Configuration
+pyyaml>=6.0.1
+
+# Utilities (stdlib, listed for reference)
+# hashlib - SHA3-256 hashing
+# pathlib - Cross-platform paths
+# logging - Audit logging
+# sqlite3 - Optional audit log storage
