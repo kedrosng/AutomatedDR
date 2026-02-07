@@ -1,0 +1,74 @@
+# Escalation Contacts for JV Cost Reconciliation
+# Contact information per discrepancy type and partner
+
+escalation_matrix:
+  critical:
+    primary:
+      name: "JV Cost Committee"
+      email: "jv-cost-committee@project.au"
+      phone: "+61 4XX XXX XXX"
+      response_sla_hours: 4
+    secondary:
+      name: "Project Director"
+      email: "project-director@project.au"
+      phone: "+61 4XX XXX XXX"
+      response_sla_hours: 24
+      
+  major:
+    primary:
+      name: "Cost Control Manager"
+      email: "cost-manager@project.au"
+      phone: "+61 4XX XXX XXX"
+      response_sla_hours: 24
+    secondary:
+      name: "JV Cost Committee"
+      email: "jv-cost-committee@project.au"
+      phone: "+61 4XX XXX XXX"
+      response_sla_hours: 48
+      
+  minor:
+    primary:
+      name: "Partner HR Coordinator"
+      email: "hr-coordinator@project.au"
+      phone: "+61 4XX XXX XXX"
+      response_sla_hours: 72
+
+partner_contacts:
+  byca:
+    hr_manager:
+      name: "Sarah Jones"
+      email: "sarah.jones@byca.com.au"
+      phone: "+61 4XX XXX XXX"
+    cost_controller:
+      name: "Tom Williams"
+      email: "tom.williams@byca.com.au"
+      phone: "+61 4XX XXX XXX"
+    compliance_officer:
+      name: "Pierre Dubois"
+      email: "pierre.dubois@byca.com.au"
+      phone: "+61 4XX XXX XXX"
+      
+  jhg:
+    hr_manager:
+      name: "Emma Wilson"
+      email: "emma.wilson@jhg.com.au"
+      phone: "+61 4XX XXX XXX"
+    cost_controller:
+      name: "Mike Smith"
+      email: "mike.smith@jhg.com.au"
+      phone: "+61 4XX XXX XXX"
+    compliance_officer:
+      name: "David Brown"
+      email: "david.brown@jhg.com.au"
+      phone: "+61 4XX XXX XXX"
+
+external_contacts:
+  fair_work:
+    name: "Fair Work Ombudsman"
+    hotline: "13 13 94"
+    website: "https://www.fairwork.gov.au"
+    
+  ato:
+    name: "Australian Taxation Office (Super)"
+    hotline: "13 10 20"
+    website: "https://www.ato.gov.au"

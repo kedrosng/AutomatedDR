@@ -1,0 +1,118 @@
+# Business Rules Configuration for JV Cost Reconciliation
+# Rate bands, tolerances, and Australian compliance rules
+
+# Fuzzy matching thresholds
+fuzzy_matching:
+  auto_accept_threshold: 95      # >= 95% confidence: auto-match
+  review_threshold: 85           # 85-94%: flag for review
+  critical_threshold: 85         # < 85%: critical discrepancy
+
+# Cross-partner rate comparison
+rate_comparison:
+  deviation_tolerance_pct: 15    # Flag if >15% difference for same role
+  
+# Daily rate bands by role (AUD/day)
+rate_bands:
+  labourer:
+    min: 350
+    max: 550
+    typical: 450
+    
+  skilled_labour:
+    min: 450
+    max: 650
+    typical: 550
+    
+  rigger:
+    min: 500
+    max: 800
+    typical: 650
+
+  dogman:
+    min: 480
+    max: 750
+    typical: 600
+    
+  scaffolder:
+    min: 500
+    max: 800
+    typical: 650
+
+  electrician:
+    min: 600
+    max: 950
+    typical: 750
+
+  carpenter:
+    min: 550
+    max: 850
+    typical: 700
+    
+  supervisor:
+    min: 700
+    max: 1100
+    typical: 900
+    
+  engineer:
+    min: 800
+    max: 1400
+    typical: 1100
+    
+  safety_officer:
+    min: 600
+    max: 1000
+    typical: 800
+
+# Superannuation (Australia) rules
+super_compliance:
+  contribution_rate: 0.115       # 11.5% contribution (FY24/25)
+  max_relevant_income: 62270     # AUD quarterly cap (approx)
+  min_relevant_income: 450       # AUD per month threshold
+  
+# Working hours validation
+working_hours:
+  standard_hours_per_day: 8
+  max_ot_hours_per_day: 4
+  max_hours_per_day: 12
+
+# Visa / Work Right checks (Australia)
+visa_compliance:
+  permit_format: "^[0-9]{9,13}$"    # VEVO / Visa Grant Number format
+  nationalities_requiring_permit:
+    - "China"
+    - "Nepal"
+    - "Philippines"
+    - "Thailand"
+    - "Indonesia"
+    - "India"
+    - "Vietnam"
+    - "UK"
+    - "Ireland"
+    - "France"
+
+# Discrepancy classification rules
+discrepancy_classification:
+  critical:
+    - "ghost_worker"              # In TFR but not in HR master
+    - "missing_visa"              # Foreign worker without visa info
+    - "duplicate_id"              # Same ID across partners
+    - "rate_deviation_extreme"    # >50% rate difference
+    
+  major:
+    - "fuzzy_match_review"        # Name match 85-94%
+    - "rate_deviation"            # 15-50% rate deviation
+    - "rate_out_of_band"          # Rate outside role band
+    - "super_error"               # Superannuation calculation issues
+    
+  minor:
+    - "attendance_mismatch"       # Minor time discrepancies
+    - "role_mismatch"             # Different role names, same person
+    - "name_format_diff"          # Naming format differences
+
+# Audit trail settings
+audit:
+  snapshot_retention_days: 90
+  log_format: "json"              # or "sqlite"
+  hash_algorithm: "sha3_256"
+
+currency: "AUD"

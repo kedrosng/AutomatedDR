@@ -1,0 +1,119 @@
+# Partner Configuration for JV Cost Reconciliation
+# Defines column mappings, file patterns, and metadata per partner
+
+partners:
+  byca:
+    display_name: "Bouygues Construction Australia"
+    short_code: "BYCA"
+    
+    # Column name mappings (source → normalized)
+    column_mappings:
+      hr_master:
+        Staff_ID: staff_id
+        Staff_Name: name
+        Role: role
+        Daily_Rate_AUD: daily_rate
+        Nationality: nationality
+        Visa_Status: visa_status
+        Super_Fund: super_fund
+        Join_Date: join_date
+        
+      tfr:
+        # Original CSV column names
+        Staff_ID: staff_id
+        Name: name
+        Date: date
+        Hours_Worked: hours
+        OT_Hours: ot_hours
+        Daily_Rate: daily_rate
+        # PDF-generated column names (from table headers)
+        "Staff ID": staff_id
+        "Total Hours": hours
+        "Daily Rate": daily_rate
+        "Total Pay (AUD)": total_pay
+        
+      attendance:
+        Staff_ID: staff_id
+        Staff_Name: name
+        Date: date
+        Clock_In: clock_in
+        Clock_Out: clock_out
+        Site_Zone: site_zone
+    
+    # Expected file patterns
+    file_patterns:
+      hr_master: "hr_master*.csv"
+      tfr: "tfr_*.pdf"
+      attendance: "site_attendance*.xlsx"
+    
+    # Rate adjustments
+    rate_adjustment_factor: 1.0
+
+  jhg:
+    display_name: "John Holland Group"
+    short_code: "JHG"
+    
+    # Column name mappings (source → normalized)
+    column_mappings:
+      hr_master:
+        Employee_No: staff_id
+        Full_Name: name
+        Position: role
+        Rate_Per_Day: daily_rate
+        Country: nationality
+        Visa_Type: visa_status
+        Super_Account: super_fund
+        Start_Date: join_date
+        
+      tfr:
+        # Original CSV column names
+        Emp_No: staff_id
+        Employee_Name: name
+        Work_Date: date
+        Std_Hours: hours
+        Overtime: ot_hours
+        Day_Rate: daily_rate
+        # PDF-generated column names (from table headers)
+        "Staff ID": staff_id
+        "Total Hours": hours
+        "Daily Rate": daily_rate
+        "Total Pay (AUD)": total_pay
+        Name: name
+        
+      attendance:
+        Employee_No: staff_id
+        Employee_Name: name
+        Attendance_Date: date
+        Entry_Time: clock_in
+        Exit_Time: clock_out
+        Work_Area: site_zone
+    
+    # Expected file patterns
+    file_patterns:
+      hr_master: "hr_master*.csv"
+      tfr: "tfr_*.pdf"
+      attendance: "site_attendance*.xlsx"
+    
+    # Rate adjustments (JHG typically 5-10% higher in some trades, keeping similar for now)
+    rate_adjustment_factor: 1.05
+
+# Role name normalization across partners
+role_mappings:
+  # BYCA / Common roles → Normalized role
+  "Leading Hand": "supervisor"
+  "Foreman": "supervisor"
+  "General Labour": "labourer"
+  "Skilled Labour": "skilled_labour"
+  "Rigger": "rigger"
+  "Dogman": "dogman"
+  "Scaffolder": "scaffolder"
+  "Electrician": "electrician"
+  "Carpenter": "carpenter"
+  "Project Engineer": "engineer"
+  "Site Engineer": "engineer"
+  "Safety Officer": "safety_officer"
+  
+  # JHG specific roles -> Normalized
+  "Senior Supervisor": "supervisor"
+  "Site Manager": "site_manager"
+  "HSE Advisor": "safety_officer"
