@@ -1,0 +1,110 @@
+# Escalation contacts for different discrepancy types
+# Used for automated notifications and issue routing
+
+escalation_levels:
+  critical:
+    recipients:
+      - name: "Project Manager"
+        email: "pm@project.com.australia"
+        phone: "+61 2 9876 5432"
+      - name: "JV Committee Chair"
+        email: "chair@jv-committee.australia"
+        phone: "+61 2 8765 4321"
+    response_time: "2 hours"
+  
+  major:
+    recipients:
+      - name: "Cost Controller"
+        email: "cost.controller@project.com.australia"
+        phone: "+61 2 6789 0123"
+      - name: "Partner Liaison Officer"
+        email: "plo@project.com.australia"
+        phone: "+61 2 5678 9012"
+    response_time: "24 hours"
+  
+  minor:
+    recipients:
+      - name: "HR Manager - BYCA"
+        email: "hr.byca@byca.australia.com"
+        phone: "+61 2 2345 6789"
+      - name: "HR Manager - JHG"
+        email: "hr.jhg@jhg.australia.com"
+        phone: "+61 3 3456 7890"
+    response_time: "72 hours"
+
+discrepancy_types:
+  ghost_worker:
+    escalation_level: "critical"
+    responsible_party: "Both Partners"
+    notes: "Verify staff authenticity immediately"
+  
+  name_typo:
+    escalation_level: "major"
+    responsible_party: "Source Partner"
+    notes: "Cross-check with official documents"
+  
+  rate_variance:
+    escalation_level: "major"
+    responsible_party: "Both Partners"
+    notes: "Review rate agreements and contracts"
+  
+  missing_document:
+    escalation_level: "critical"
+    responsible_party: "Source Partner"
+    notes: "Request immediate documentation"
+  
+  duplicate_entry:
+    escalation_level: "minor"
+    responsible_party: "Data Entry Team"
+    notes: "Clean up duplicate records"
+  
+  compliance_violation:
+    escalation_level: "critical"
+    responsible_party: "Legal & Compliance Team"
+    notes: "Immediate attention required for Australian Fair Work Ombudsman compliance"
+
+# Contact information for partners
+partners:
+  byca:
+    primary_contact:
+      name: "Robert Johnson"
+      title: "Senior Project Manager"
+      email: "robert.johnson@byca.australia.com"
+      phone: "+61 2 9876 5432"
+    hr_contact:
+      name: "Jennifer Williams"
+      title: "HR Manager"
+      email: "jennifer.williams@byca.australia.com"
+      phone: "+61 2 9876 5433"
+  
+  jhg:
+    primary_contact:
+      name: "Emma Thompson"
+      title: "Operations Director"
+      email: "emma.thompson@jhg.australia.com"
+      phone: "+61 3 8765 4321"
+    hr_contact:
+      name: "Michael Brown"
+      title: "HR Coordinator"
+      email: "michael.brown@jhg.australia.com"
+      phone: "+61 3 8765 4322"
+
+# Internal team contacts
+internal_team:
+  cost_controller:
+    name: "You"
+    title: "JV Cost Controller"
+    email: "you@project.com.australia"
+    phone: "+61 2 1234 5678"
+  
+  project_director:
+    name: "David Wilson"
+    title: "Project Director"
+    email: "david.wilson@project.com.australia"
+    phone: "+61 2 1122 3344"
+  
+  compliance_officer:
+    name: "Sophia Anderson"
+    title: "Compliance Officer"
+    email: "sophia.anderson@project.com.australia"
+    phone: "+61 2 5566 7788"

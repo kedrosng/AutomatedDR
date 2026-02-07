@@ -1,0 +1,76 @@
+# Partner configuration for JV Cost Control System
+# Defines metadata and file patterns for each partner
+
+partners:
+  byca:
+    name: "Bouygues Construction Australia"
+    short_name: "BYCA"
+    file_patterns:
+      hr_master: ["hr_master.csv", "staff_master.csv", "employees.csv"]
+      tfr_timesheet: ["tfr_*.pdf", "timesheet_*.pdf", "daily_report_*.pdf"]
+      site_attendance: ["site_attendance.xlsx", "attendance_log.xlsx", "work_log.xlsx"]
+    column_mappings:
+      staff_id: ["Staff_ID", "StaffID", "Employee_ID", "Emp_ID"]
+      name: ["Full_Name", "Name", "Employee_Name", "Staff_Name"]
+      role: ["Role", "Position", "Job_Title", "Designation"]
+      rate: ["Hourly_Rate", "Daily_Rate", "Wage", "Rate_AUD"]
+      work_permit: ["Work_Permit", "Visa_Number", "Permit_No", "Visa_Permit"]
+    contact:
+      manager: "Robert Johnson"
+      email: "robert.johnson@byca.australia.com"
+      phone: "+61 2 9876 5432"
+
+  jhg:
+    name: "John Holland Group"
+    short_name: "JHG"
+    file_patterns:
+      hr_master: ["hr_master.csv", "staff_master.csv", "employees.csv"]
+      tfr_timesheet: ["tfr_*.pdf", "timesheet_*.pdf", "daily_report_*.pdf"]
+      site_attendance: ["site_attendance.xlsx", "attendance_log.xlsx", "work_log.xlsx"]
+    column_mappings:
+      staff_id: ["Employee_No", "Emp_No", "Staff_ID", "ID"]
+      name: ["Name", "Full_Name", "Employee_Name", "Staff_Name"]
+      role: ["Role", "Position", "Job_Title", "Designation", "Position_Title"]
+      rate: ["Hourly_Rate", "Daily_Rate", "Wage", "Rate_AUD"]
+      work_permit: ["Work_Permit", "Visa_Number", "Permit_No", "Visa_Permit"]
+    contact:
+      manager: "Emma Thompson"
+      email: "emma.thompson@jhg.australia.com"
+      phone: "+61 3 8765 4321"
+
+# Common configurations
+common:
+  date_formats:
+    - "%Y-%m-%d"
+    - "%d/%m/%Y"
+    - "%m/%d/%Y"
+    - "%Y/%m/%d"
+  currency_codes:
+    - "AUD"
+    - "aud"
+    - "A$"
+    - "$"
+  nationality_codes:
+    au: ["AU", "Australia", "Australian", "Aussie"]
+    nz: ["NZ", "New Zealand", "Kiwi"]
+    uk: ["UK", "United Kingdom", "British"]
+    us: ["US", "USA", "American"]
+    ca: ["CA", "Canada", "Canadian"]
+    de: ["DE", "Germany", "German"]
+    fr: ["FR", "France", "French"]
+    it: ["IT", "Italy", "Italian"]
+    es: ["ES", "Spain", "Spanish"]
+    in: ["IN", "India", "Indian"]
+    cn: ["CN", "China", "Chinese"]
+    ph: ["PH", "Philippines", "Filipino"]
+    vn: ["VN", "Vietnam", "Vietnamese"]
+    th: ["TH", "Thailand", "Thai"]
+    id: ["ID", "Indonesia", "Indonesian"]
+    my: ["MY", "Malaysia", "Malaysian"]
+    sg: ["SG", "Singapore", "Singaporean"]
+    jp: ["JP", "Japan", "Japanese"]
+    kr: ["KR", "South Korea", "Korean"]
+    pk: ["PK", "Pakistan", "Pakistani"]
+    bd: ["BD", "Bangladesh", "Bengali"]
+    lk: ["LK", "Sri Lanka", "Sri Lankan"]
+    np: ["NP", "Nepal", "Nepali"]

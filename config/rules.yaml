@@ -1,0 +1,71 @@
+# Business rules and validation criteria for JV Cost Control System
+# Contains rate bands, tolerances, and Australian compliance rules
+
+hr_master:
+  mandatory_fields:
+    - staff_id
+    - name
+    - role
+    - rate
+  rate_bands:
+    General Builder:
+      min: 45
+      max: 65
+    Steel Fixer:
+      min: 55
+      max: 75
+    Concreter:
+      min: 50
+      max: 70
+    Safety Officer:
+      min: 60
+      max: 85
+    Crane Operator:
+      min: 70
+      max: 100
+    Skilled Labour:
+      min: 50
+      max: 70
+    Trade Worker:
+      min: 48
+      max: 68
+    Tower Crane Op:
+      min: 75
+      max: 105
+
+tfr_timesheet:
+  mandatory_fields:
+    - staff_id
+    - date
+    - hours
+  max_hours_per_day: 12
+  max_overtime_hours: 4
+
+site_attendance:
+  mandatory_fields:
+    - staff_id
+    - date
+    - status
+  valid_statuses:
+    - present
+    - absent
+    - leave
+    - public_holiday
+    - sick_leave
+    - annual_leave
+
+au_compliance:
+  foreign_worker_requires_visa: true
+  visa_pattern: "^\\d{3}[A-Z]$"
+  superannuation_contribution_rate: 0.11
+  superannuation_max_salary_base: 275000
+  overtime_rate_multiplier: 1.5
+  standard_work_week: 38
+  holiday_pay_rate: 1.0
+  award_rate_check: true
+
+validation_tolerance:
+  rate_variance_threshold: 15  # Percentage for cross-partner rate comparison
+  fuzzy_match_threshold_high: 95  # Auto-accept
+  fuzzy_match_threshold_medium: 85  # Flag for review
+  fuzzy_match_threshold_low: 50  # Critical discrepancy

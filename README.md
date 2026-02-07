@@ -1,31 +1,140 @@
-# AutomatedDR Python script
+# JV Construction Cost Control System
 
-This Python script is for processing and updating a register of drawings found in a specified folder hierarchy.
+A complete, production-ready system for reconciling staff data from multiple partners on large-scale construction projects in Hong Kong. Designed for a solo cost controller managing a HK$10B+ infrastructure project with 2 partners.
 
-## Main components
+## Overview
 
-* Class definition (Drawing): The Drawing class represents a single drawing with properties like drawing number, title, revision, date, location code, drawing type, submission date, and submission reference.
-* Functions: There are several functions for handling tasks such as processing and updating the drawings register, reading and writing the register to a CSV file, and printing the register in a tabulated format.
-* Main script: The main script first loads the drawings register from a CSV file. It then prompts the user to select a base folder, processes all drawings found in the folder structure, and updates the register accordingly. Finally, it prints the updated drawings register in tabulated format.
+This system addresses critical pain points in joint venture cost control:
+- Manual errors in data reconciliation
+- Format mismatches between partner systems
+- Lack of audit trail for JV disputes
+- Non-compliance with HK labour regulations
 
-## High-level overview of the script's flow
+## Features
 
-* Load the drawings register from a CSV file (drawings_register.csv).
-* Prompt the user to select the base folder.
-* Process all drawings found in the folder structure and update the register.
-* Print the updated drawings register in a tabulated format.
+- **3-way reconciliation**: Matches HR master lists, TFR timesheets, and site attendance logs
+- **Fuzzy matching**: Handles name typos and variations using rapidfuzz
+- **HK compliance checks**: Validates FDH permits, MPF contributions, and rate bands
+- **Audit trail**: SHA3-256 snapshots with complete change tracking
+- **Discrepancy dashboard**: Visualizes critical, major, and minor issues
+- **Report generation**: Creates evidence packs and compliance reports
 
-## Some key functions used in the script
+## Prerequisites
 
-* process_all_drawings(base_folder, drawings_register): Processes all drawings found in the folder hierarchy rooted at base_folder and updates the drawings_register.
-* read_drawings_from_csv(file_path): Reads the drawings register from a CSV file and returns a list of Drawing objects.
-* update_drawings_in_batch(drawings, filepaths, submission_date, submission_ref): Updates the drawings register with the information from the list of filepaths.
+- Python 3.10+
+- Windows or Linux system
 
-## Benefits of using the AutomatedDR Python script
+## Setup Instructions
 
-* It can help you to keep your drawing register up-to-date.
-* It can help you to find drawings quickly and easily.
-* It can help you to generate reports on your drawing register.
-* It can help you to automate tasks related to your drawing register.
+1. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## If you are looking for a powerful and easy-to-use tool for managing your drawing register, then I recommend using the AutomatedDR Python script.
+2. **Generate dummy data** (for testing):
+   ```bash
+   python utils/dummy_data_generator.py
+   ```
+
+3. **Run the application**:
+   ```bash
+   streamlit run app.py
+   ```
+
+## How to Add Real Partner Files
+
+Place your partner files in the appropriate directories under `data/raw/`:
+
+```
+data/raw/
+├── dragages/
+│   ├── hr_master.csv          # HR master list (staff_id, name, role, rate)
+│   ├── tfr_feb2026.pdf        # TFR timesheet (staff_id, date, hours)
+│   └── site_attendance.xlsx   # Site attendance log (staff_id, date, status)
+└── gammon/
+    ├── hr_master.csv
+    ├── tfr_feb2026.pdf
+    └── site_attendance.xlsx
+```
+
+### Supported File Formats
+- CSV for HR master and attendance data
+- Excel (.xlsx, .xls) for attendance data
+- PDF for TFR timesheets (tables extracted automatically)
+
+### Expected Columns by Source Type
+
+**HR Master**:
+- `staff_id` or `employee_no` (unique identifier)
+- `name` (full name)
+- `role` (job position)
+- `rate` (daily/hourly wage)
+- `nationality` (for compliance checks)
+- `fdh_permit` (for foreign workers)
+
+**TFR Timesheet**:
+- `staff_id` (identifier)
+- `date` (work date)
+- `hours` (hours worked)
+- `rate` (applicable rate)
+
+**Site Attendance**:
+- `staff_id` (identifier)
+- `date` (attendance date)
+- `status` (present, absent, leave, etc.)
+
+## How to Resolve Common Errors
+
+### PDF Table Not Detected
+- Check if the PDF has proper table structure (lines separating cells)
+- Verify page margins aren't cutting off table edges
+- Try converting to image-based PDF if text extraction fails
+
+### Column Name Mismatches
+- The system automatically normalizes common variations:
+  - Staff ID: `staff_id`, `employee_no`, `emp_id`, `Staff_ID`, etc.
+  - Name: `name`, `full_name`, `Name`, `Full_Name`, etc.
+- Update `config/partners.yaml` for custom mappings
+
+### Performance Issues with Large Files
+- Files with >5000 rows may take longer to process
+- Consider splitting large files into smaller chunks
+- Ensure adequate RAM (4GB+ recommended)
+
+## System Architecture
+
+### Core Modules
+- `core/ingestion.py`: Handles file loading and preprocessing
+- `core/validation.py`: Enforces schema and business rules
+- `core/reconciliation.py`: Performs 3-way matching with fuzzy logic
+- `core/audit.py`: Manages snapshots and change tracking
+- `core/reporting.py`: Generates Excel/PDF reports
+
+### Configuration Files
+- `config/partners.yaml`: Partner metadata and file patterns
+- `config/rules.yaml`: Rate bands, tolerances, compliance rules
+- `config/contacts.yaml`: Escalation contacts by discrepancy type
+
+### Data Flow
+1. **Ingestion**: Load files from `data/raw/` with automatic format detection
+2. **Validation**: Check schemas, mandatory fields, and compliance rules
+3. **Reconciliation**: Match across sources with fuzzy logic for typos
+4. **Audit**: Create SHA3-256 snapshots of all processing steps
+5. **Reporting**: Generate discrepancy reports and evidence packs
+
+## Security & Privacy
+
+- **Zero cloud dependencies**: All processing happens locally
+- **Data isolation**: No external API calls or data transmission
+- **Complete audit trail**: Every change tracked with cryptographic hashes
+
+## Troubleshooting
+
+If you encounter issues:
+
+1. Check that all required columns are present in your files
+2. Verify file encodings (UTF-8 recommended)
+3. Confirm that partner names match exactly: "Dragages" and "Gammon"
+4. Review the console output for specific error messages
+
+For additional support, contact your internal development team.
